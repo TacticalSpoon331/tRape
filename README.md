@@ -14,4 +14,5 @@ unfriend all of a user's friends
 flashbang - constantly switch between light and dark mode settings (pain)
 show token info
 
+How to new line?
 
